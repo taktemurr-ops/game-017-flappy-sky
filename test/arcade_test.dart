@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_017_flappy_sky/core/arcade.dart';
-import 'package:game_017_flappy_sky/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_017_flappy_sky/game/flappy_engine.dart';
 import 'package:game_017_flappy_sky/game/rules.dart';
 
